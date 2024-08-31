@@ -23,4 +23,4 @@
 
 ## Network
 - For my setup, I need to revise my requirements. Has my first setup, I think this design will do.
-![images/hardware_architecture.png]([images/hardware_architecture.png])
+![images/hardware_architecture.png](images/hardware_architecture.png)
